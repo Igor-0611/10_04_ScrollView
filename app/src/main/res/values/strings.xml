@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">10_04_ScrollView</string>
+    <string name="title_name">Электронная книга</string>
+    <string name="loadBTN">Загрузить</string>
+</resources>
